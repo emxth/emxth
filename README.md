@@ -26,7 +26,7 @@ To get the best visual effect, view this file on a platform that renders HTML an
 
 ## <span style="color:#007acc;">PROFILE</span>
 
-> 🎓 I am a dedicated and ambitious **second-year student** pursuing a Bachelor's in Software Engineering at SLIIT.  
+> 🎓 I am a dedicated and ambitious **third-year student** pursuing a Bachelor's in Software Engineering at SLIIT.  
 > 💻 With a strong passion for technology and innovation, I am eager to leverage my skills and knowledge to contribute effectively to the IT industry.  
 > 🚀 I am actively seeking opportunities to apply my learning in real-world scenarios and further enhance my expertise in technology.
 
@@ -94,31 +94,6 @@ To get the best visual effect, view this file on a platform that renders HTML an
     </td>
   </tr>
 </table>
-
----
-
-## <span style="color:#2980b9;">PROJECTS</span>
-
-### <span style="color:#27ae60;">E-Waste Management System (MERN Stack)</span>
-*University Second Year Project*  
-Designed and developed a <span style="color:#8e44ad;"><b>full-stack web application</b></span> to streamline e-waste collection, finance tracking, truck and recycling center management with secure user roles, real-time tracking, and online payment integration.
-
----
-
-### <span style="color:#e67e22;">Finance Tracker (Android)</span>
-*University Second Year Project*  
-Developed a mobile application in <span style="color:#5c6bc0;">Kotlin</span> with shared preferences and a database to track and manage personal finances.
-
----
-
-### <span style="color:#c0392b;">Hospital Management System</span>
-*University Second Year Project*  
-Created a comprehensive web application for overseeing hospital operations, including doctor management, patient handling, inventory control, prescription management, as well as online booking and payment processing integration.
-
----
-
-### <span style="color:#16a085;">Institute Management System</span>
-Designed and developed a full-stack web application to make it easy for students and teachers to track daily attendance, monitor student progress, and collect monthly payments.
 
 ---
 
